@@ -1,0 +1,2 @@
+This is the readme file for a small wbsite of reciepes there is not much explanation for it since it is pretty straigh forward
+In any case I hope the weather is nice outside and your are having a chill day.
